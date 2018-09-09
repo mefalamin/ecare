@@ -4,5 +4,17 @@ This project was developed in the last semester.Here we tried to build a platfor
 
 Just clone the repo in the htdocs folder on xampp and import the sql file in MySQL then change the database user,password in the includes/db_connection.php file.
 
-Back-end: raw PHP,Mysql
+Back-end: raw PHP,MySQL
 Front-end: Bootstrap,CSS,HTML,Javascript
+
+Some Screenshots of the website
+
+
+![Screenshot](screenshots/home.png)
+![Screenshot](screenshots/user_registration.png)
+![Screenshot](screenshots/doctor_searching.png)
+![Screenshot](screenshots/donor_searching.png)
+![Screenshot](screenshots/taking_appointment.png)
+![Screenshot](screenshots/user_apppointments.png)
+![Screenshot](screenshots/doctor_schedule_manage.png)
+![Screenshot](screenshots/see_schedule.png)
